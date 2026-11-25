@@ -4,6 +4,10 @@
 Writes the winning one-liner, exactly as written, to /output/entry.txt.
 No trailing newline: the file holds the line and nothing else, so the
 entry is byte-for-byte the joke (123 chars, inside the 1-200 gate).
+
+The line won a blind 6-way pairwise tournament 5-0 (runner-up 4-1) against
+the competition's own judge brief: a support ticket escalated from "user
+error" to "cosmic error" to God — who is still on hold.
 """
 
 LINE = (
